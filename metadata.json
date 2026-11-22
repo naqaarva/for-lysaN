@@ -1,0 +1,10 @@
+{
+  "name": "For Lysa",
+  "description": "Aplikasi web romantis PWA untuk berdua bersama Lysa: berbagi lokasi langsung, pesan cinta harian, galeri kenangan, Open When Letters, countdown anniversary, surprise box, dan virtual hug.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
